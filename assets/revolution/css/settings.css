@@ -118,6 +118,7 @@ website:   	http://www.themepunch.com
 .tp-simpleresponsive img,
 .rev_slider img{
 	max-width:none !important;
+   max-height: 600px !important;
 	-moz-transition: none;
 	-webkit-transition: none;
 	-o-transition: none;
@@ -260,7 +261,7 @@ website:   	http://www.themepunch.com
 /**********************************************
 	-	FULLSCREEN AND FULLWIDHT CONTAINERS	-
 **********************************************/
-.rev_slider_wrapper	{	width:100%;}
+.rev_slider_wrapper	{	width:100%; max-height: 500px;}
 
 .fullscreen-container {	
 	position:relative;
