@@ -188,7 +188,7 @@ img {
 
 .logo{
   width: 100%;
-  max-width: 160px;
+  max-width: 260px;
   display: inline-block;
 }
 
@@ -1006,7 +1006,7 @@ input,textarea {
 /*logo*/
 
 .main-logo {
-  margin: 21px 0  21px;
+  margin: 5px 0;
 }
 
 /*menu*/
@@ -4901,3 +4901,11 @@ color:#fff;
 .contact-info .fa{
   color: #f89620
 }
+
+.service-block svg{
+width: 30px;
+height: 30px;
+}
+
+
+
